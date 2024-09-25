@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Hassan
 - 👀 I’m currently interested in building a minimal resume generator for free.
 - 🌱 I’m currently learning React
-- 📫 How to reach me: `mehassan3454@gmail.com` **or** [Instagram](https://instagram.com/uranus.rar) 
+- 📫 How to reach me: mehassan3454@gmail.com **or** [Instagram](https://instagram.com/uranus.rar) 
 
 - 😄 Pronouns: he/him
 
