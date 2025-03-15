@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Muhammad Hassan AKA Xranus
-- 👀 I’m currently interested in staring backend.
-- 🌱 I’m currently learning go
 - 📫 How to reach me: mehassan3454@gmail.com **or** [Instagram](https://instagram.com/uranus.rar) 
 
 - 😄 Pronouns: he/him
